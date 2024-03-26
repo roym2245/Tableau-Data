@@ -4,7 +4,7 @@ Project Overview:
     Objective: The objective of this project is to create visualizations using Tableau from COVID-19 data queried from a database.
     Data Source: The data used for this project is COVID-19 data obtained from a previously conducted project. This data has been exported from a different view query, ensuring it contains relevant information for analysis.
     Tools Used: Tableau is the primary tool used for creating visualizations.
-    <https://public.tableau.com>
+https://public.tableau.com
 
 Steps Involved:
 
@@ -28,4 +28,4 @@ Steps Involved:
 Conclusion:
 This project demonstrates the process of creating informative visualizations using Tableau from COVID-19 data queried from a database. Through thoughtful data preparation and visualization design, insights about the COVID-19 pandemic can be effectively communicated and analyzed.
 
-(https://public.tableau.com/app/profile/martin.roy1812/viz/DemowithSQLCoviddata/Dashboard1) 
+https://public.tableau.com/app/profile/martin.roy1812/viz/DemowithSQLCoviddata/Dashboard1 
