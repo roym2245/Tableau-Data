@@ -1,19 +1,31 @@
 # Tableau-Data
+Project Overview:
 
-Creating visualizations with Tableau from data queried in SQL involves several steps to transform raw data into insightful visuals. Here's a quick explanation:
+    Objective: The objective of this project is to create visualizations using Tableau from COVID-19 data queried from a database.
+    Data Source: The data used for this project is COVID-19 data obtained from a previously conducted project. This data has been exported from a different view query, ensuring it contains relevant information for analysis.
+    Tools Used: Tableau is the primary tool used for creating visualizations.
+    https://public.tableau.com
 
-    Data Query in SQL: Begin by querying the required data from your database using SQL queries. Ensure that the data retrieved is clean, relevant, and structured appropriately for visualization purposes.
+Steps Involved:
 
-    Import Data into Tableau: Open Tableau Desktop and connect to your SQL database. Import the queried data into Tableau. Tableau provides a simple interface to connect to various data sources, including SQL databases.
+    Data Query: COVID-19 data is queried from the database using SQL queries. These queries retrieve specific information such as daily cases, deaths, and recoveries, ensuring the data is relevant and up-to-date.
 
-    Sheet Creation: In Tableau, each visualization is created on a separate sheet. Begin by creating a new sheet for each visualization you want to showcase in your document.
+    Data Preparation: After retrieving the data, it is cleaned and structured appropriately for visualization purposes. Any inconsistencies or missing values are addressed during this stage.
 
-    Choose Visualization Type: Select the appropriate visualization type based on the nature of your data and the insights you want to convey. For example, use a line graph to show trends over time, a bar graph for comparing different categories, or a map for geographical data.
+    Tableau Integration: The cleaned COVID-19 data is imported into Tableau Desktop. Tableau's interface allows for easy connection to SQL databases and seamless import of queried data.
 
+    Visualization Creation:
+        Sheet Creation: Each visualization is created on a separate sheet within Tableau.
+        Visualization Types: Based on the nature of the COVID-19 data, various visualization types are utilized. For instance, line graphs may be used to illustrate trends in cases over time, bar graphs to compare the number of cases across different regions, and maps to visualize geographical distribution of cases.
+        Customization: Visualizations are customized to enhance clarity and insight. This may involve adjusting colors, labels, and adding relevant annotations.
 
-    Customize Visualizations: Customize the visualizations to improve clarity and insightfulness. This may involve adjusting colors, labels, axes, adding reference lines, or applying filters to focus on specific data subsets.
+    Dashboard Creation: Once individual visualizations are created, they are combined into a dashboard within Tableau. A dashboard provides a comprehensive view of the data, allowing for easy comparison and analysis.
 
-    Interactivity: Tableau allows for interactive visualizations where users can explore the data dynamically. Add interactivity by creating filters, parameters, or actions that enable users to drill down into the data or compare different aspects easily.
+    Review and Iteration: The visualizations and dashboard are reviewed to ensure they effectively convey insights from the COVID-19 data. Any necessary iterations or refinements are made to improve the clarity and usability of the visualizations.
 
-    Combine Visualizations into a Dashboard: Once you've created individual visualizations on separate sheets, combine them into a dashboard within Tableau. A dashboard provides a single canvas to display multiple visualizations together, facilitating comparison and analysis.
+    Export: Finally, the completed visualizations and dashboard are exported from Tableau, potentially into an Excel document (xlsx), for sharing with stakeholders or further analysis.
 
+Conclusion:
+This project demonstrates the process of creating informative visualizations using Tableau from COVID-19 data queried from a database. Through thoughtful data preparation and visualization design, insights about the COVID-19 pandemic can be effectively communicated and analyzed.
+
+https://public.tableau.com/app/profile/martin.roy1812/viz/DemowithSQLCoviddata/Dashboard1 
